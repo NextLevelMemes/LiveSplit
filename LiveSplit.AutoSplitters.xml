@@ -7710,9 +7710,8 @@
       <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/traautosplitter.asl</URL>
     </URLs>
     <Type>Script</Type> 
-    <Description>Autosplitter for Tomb Raider: Anniversary Any% - No Bug Jump with 23 autosplits, load removal and autoreset by NextLevelMemes</Description> 
+    <Description>Autosplitter for both 100% and Any% - No BJ, load removal and autoreset by NextLevelMemes. Splits are available on speedrun.com</Description> 
   </AutoSplitter>
-
   <AutoSplitter> 
     <Games> 
       <Game>else Heart.Break()</Game>
